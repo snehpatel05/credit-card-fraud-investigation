@@ -13,7 +13,7 @@ scaler = joblib.load(SCALER_PATH)
 feature_columns = joblib.load(FEATURE_COLUMNS_PATH)
 
 st.title("Smart Credit Card Fraud Investigation System")
-
+st.caption("Developed by Team 404 Brain Not Found")
 st.write(
     "Enter a transaction row index to check whether the transaction is genuine or suspicious."
 )
