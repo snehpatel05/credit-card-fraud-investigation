@@ -13,6 +13,10 @@
 
 
 ## Team: 404 Brain Not Found
+
+1. **Patel Sneh Champakkumar** - *202503007*
+2. **Aambaliya Kirtan Hareshbhai** - *202503015*
+
 ---
 
 ## Overview
