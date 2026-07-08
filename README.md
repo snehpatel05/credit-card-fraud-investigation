@@ -1,4 +1,4 @@
-# Credit Card Fraud Investigation System
+# Smart Credit Card Fraud Investigation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
