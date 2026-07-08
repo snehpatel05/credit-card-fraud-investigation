@@ -1,4 +1,4 @@
-<img width="784" height="105" alt="image" src="https://github.com/user-attachments/assets/e6dd0f00-c386-4ce5-bfe8-e4ef115788d3" /># Credit Card Fraud Investigation System
+# Credit Card Fraud Investigation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -13,7 +13,6 @@
 
 
 ## Team: 404 Brain Not Found
-
 ---
 
 ## Overview
