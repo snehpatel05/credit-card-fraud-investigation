@@ -1,4 +1,4 @@
-# Credit Card Fraud Investigation System
+<img width="784" height="105" alt="image" src="https://github.com/user-attachments/assets/e6dd0f00-c386-4ce5-bfe8-e4ef115788d3" /># Credit Card Fraud Investigation System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -10,6 +10,9 @@
 [![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://credit-card-fraud-investigation.streamlit.app/)
 
 [![Demo Video](https://img.shields.io/badge/Demo%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wfixrbYbE8g)
+
+
+## Team: 404 Brain Not Found
 
 ---
 
